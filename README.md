@@ -1,2 +1,2 @@
-# Azure
-Azure Cloud tips and tricks
+# Cloud
+Public Cloud tips and tricks
